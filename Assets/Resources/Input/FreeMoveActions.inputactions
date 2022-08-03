@@ -1,0 +1,34 @@
+{
+    "name": "FreeMoveActions",
+    "maps": [
+        {
+            "name": "FreeMove",
+            "id": "f564bf4a-6483-4527-b813-772de59785d5",
+            "actions": [
+                {
+                    "name": "FreeMove",
+                    "type": "Value",
+                    "id": "77a8e4e6-6fbe-4907-9050-ae5d9b2c3110",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8933bdd8-6247-4a22-99d2-0caba95d6628",
+                    "path": "<XRController>{RightHand}/primary2DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FreeMove",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
