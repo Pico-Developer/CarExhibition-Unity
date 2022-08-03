@@ -608,9 +608,101 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8383785746243309838, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7912431547423025238, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7282048992322389734, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5938490433358360938, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5773759803966683812, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4269985496385953407, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3915880982751700380, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3870164847489529166, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3533958900165061998, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2859109400176981367, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2438255055523363613, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1149181631115322615, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -715832236046865609, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 313888215331223104, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
       propertyPath: m_Name
       value: PH_Metallic_Beryllium_Orange
+      objectReference: {fileID: 0}
+    - target: {fileID: 1491121024649513914, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1742045248851780129, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3349493167432763874, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4511061108842014403, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5482036739180238432, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6368645949645213492, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6462023439894114556, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8029106800918022278, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9148136534107268915, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dd3ed1087b64c2445a4f6518cc03710c, type: 3}
